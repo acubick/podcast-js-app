@@ -78,7 +78,5 @@ fabric.properties
 .idea/modules.xml
 .idea/vcs.xml
 podcast-js-app.iml
-node_modules/.cache/terser-webpack-plugin/tmp/
-node_modules/
-/node_modules
+
 
